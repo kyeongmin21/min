@@ -1,10 +1,10 @@
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=min!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=min&fontAlign=80&fontAlignY=40&color=gradient)
 
 
 <div align="center">
 
-# Kim Kyeong Min
+# kyeong min
 ### Tech
  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /></a>
