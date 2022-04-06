@@ -5,7 +5,7 @@
 <div align="center">
 
 # Kim Kyeong Min
-# Tech
+### Tech
  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /></a>
@@ -14,7 +14,7 @@
 
 <br>
 
-# Tool
+### Tool
 <img src="https://img.shields.io/badge/GitHub-006643?style=flat-square&logo=GitHub&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/WebStorm-F8DC75?style=flat-square&logo=WebStorm&logoColor=white" /></a>
